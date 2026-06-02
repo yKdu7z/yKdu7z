@@ -9,7 +9,7 @@
 Estudante de Engenharia de Software (5º período) · Desenvolvedor na GEWEB ERP · Criador do TramaBox
 
 <a href="https://github.com/yKdu7z">
-  <img src="https://komarev.com/ghpvc/?username=yKdu7z&style=flat-square&color=FFD700&label=Visitas+ao+perfil" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yKdu7z&style=for-the-badge&color=FFD700&label=Visitas+ao+perfil&labelColor=1a1a2e" alt="Profile views" />
 </a>
 
 </div>
@@ -35,16 +35,7 @@ Trabalho na **GEWEB ERP** desenvolvendo funcionalidades para ambiente profission
 ## Stack
 
 <div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,firebase&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React Native, PHP, MySQL, Firebase" />
 </div>
 
 ---
@@ -89,12 +80,17 @@ Trabalho na **GEWEB ERP** desenvolvendo funcionalidades para ambiente profission
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yKdu7z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yKdu7z&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yKdu7z&theme=tokyonight" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yKdu7z&theme=tokyonight&hide_border=true&locale=pt_BR" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yKdu7z&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yKdu7z&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yKdu7z&theme=tokyonight" width="32%" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=yKdu7z&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </div>
 
 ---
