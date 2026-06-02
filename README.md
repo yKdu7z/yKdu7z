@@ -1,54 +1,50 @@
 <div align="center">
-  <img src="./assets/images/tramabox-logo.png" width="120" alt="Logo Tramabox" />
 
-  <h1>Carlos Eduardo Marques</h1>
+<img src="./images/tramabox-logo.png" width="100" alt="Logo TramaBox" />
 
-  <h3>Desenvolvedor Web & Mobile | Engenharia de Software | GEWEB ERP</h3>
+# Carlos Eduardo Marques
 
-  <p>
-    Programador desde 2023, estudante de Engenharia de Software no 5º período
-    e desenvolvedor atuando profissionalmente na área de tecnologia.
-  </p>
+**Desenvolvedor Web & Mobile**
 
-  <p>
-    <a href="https://github.com/yKdu7z">
-      <img src="https://komarev.com/ghpvc/?username=yKdu7z&style=for-the-badge&color=yellow" alt="Profile views" />
-    </a>
-    <a href="https://github.com/yKdu7z?tab=repositories">
-      <img src="https://img.shields.io/badge/Projetos-GitHub-181717?style=for-the-badge&logo=github" alt="Projetos no GitHub" />
-    </a>
-  </p>
+Estudante de Engenharia de Software (5º período) · Desenvolvedor na GEWEB ERP · Criador do TramaBox
+
+<a href="https://github.com/yKdu7z">
+  <img src="https://komarev.com/ghpvc/?username=yKdu7z&style=flat-square&color=FFD700&label=Visitas+ao+perfil" alt="Profile views" />
+</a>
+
 </div>
 
 ---
 
 ## Sobre mim
 
-Sou **Carlos Eduardo Marques**, desenvolvedor com foco em criação de sistemas web, aplicações mobile, integrações, bancos de dados e soluções digitais completas.
+Sou Carlos Eduardo Marques, desenvolvedor focado em criar sistemas web e aplicações mobile completas — do banco de dados à interface final.
 
-Atualmente trabalho na **GEWEB ERP**, onde evoluo minhas habilidades em sistemas reais, regras de negócio, manutenção, performance e desenvolvimento de funcionalidades para uso profissional. Além disso, mantenho projetos individuais e acadêmicos no GitHub, sempre buscando transformar ideias em produtos funcionais.
+Trabalho na **GEWEB ERP** desenvolvendo funcionalidades para ambiente profissional, lidando com regras de negócio, manutenção e performance em sistemas reais. Em paralelo, mantenho projetos próprios no GitHub, onde transformo ideias em produtos funcionais.
 
-Tenho interesse especial por aplicações bem construídas, interfaces práticas, código organizado e soluções que realmente resolvem problemas.
+```text
+💻  Web & Mobile Developer
+🎓  Engenharia de Software — 5º período
+🏢  GEWEB ERP
+🎬  Criador do TramaBox
+📍  Ribeirão Preto, SP — Brasil
+```
 
 ---
 
-## Tecnologias e especialidades
+## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,firebase&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, PHP, MySQL e Firebase" />
-</div>
 
-<br />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000" alt="Firebase" />
 </div>
 
 ---
@@ -57,15 +53,23 @@ Tenho interesse especial por aplicações bem construídas, interfaces práticas
 
 <table>
   <tr>
-    <td width="110" align="center">
-      <img src="./assets/images/tramabox-logo.png" width="82" alt="Logo Tramabox" />
+    <td width="100" align="center">
+      <img src="./images/tramabox-logo.png" width="75" alt="Logo TramaBox" />
     </td>
     <td>
-      <h3>Tramabox</h3>
+      <h3>
+        <img src="https://img.shields.io/badge/Em_desenvolvimento-FFD700?style=flat-square&logoColor=black" align="right" />
+        TramaBox
+      </h3>
       <p>
-        Projeto individual em desenvolvimento, com versão <strong>web</strong> e <strong>app</strong>.
-        O Tramabox representa minha evolução prática criando uma aplicação completa,
-        trabalhando desde a interface até a estrutura lógica do produto.
+        App de avaliação de filmes e séries inspirado no Letterboxd, com versão <strong>web</strong> (PHP + MySQL) e <strong>mobile</strong> (React Native + Expo). Backend próprio em PHP com autenticação, avaliações, listas e integração com Firebase.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000" />
       </p>
     </td>
   </tr>
@@ -75,41 +79,32 @@ Tenho interesse especial por aplicações bem construídas, interfaces práticas
 
 ## Experiência
 
-- **Desenvolvedor na GEWEB ERP**
-- Desenvolvimento de sistemas web e funcionalidades para ambiente profissional
-- Criação de projetos individuais com foco em web e mobile
+- **Desenvolvedor na GEWEB ERP** — sistemas web profissionais, manutenção, performance e novas funcionalidades
+- Desenvolvimento full stack com PHP, MySQL, JavaScript e React Native
 - Projetos acadêmicos de Engenharia de Software publicados no GitHub
-- Experiência prática com front-end, back-end, banco de dados e integrações
+- Criação de produtos do zero: backend, banco de dados, front-end e mobile
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yKdu7z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub de Carlos Eduardo Marques" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yKdu7z&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yKdu7z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yKdu7z&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
 </div>
 
-<br />
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yKdu7z&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yKdu7z&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </div>
 
 ---
 
-## Objetivo
-
-Continuar evoluindo como desenvolvedor, criando projetos cada vez mais completos, bem estruturados e úteis, unindo aprendizado acadêmico, experiência profissional e prática constante em projetos próprios.
-
----
-
 <div align="center">
-  <strong>Construindo soluções com código, estudo e prática todos os dias.</strong>
-  <br />
-  <br />
-  <a href="https://github.com/yKdu7z">
-    <img src="https://img.shields.io/badge/GitHub-yKdu7z-181717?style=for-the-badge&logo=github" alt="GitHub yKdu7z" />
-  </a>
-</div>
 
+**Construindo soluções com código, estudo e prática todos os dias.**
+
+<a href="https://github.com/yKdu7z">
+  <img src="https://img.shields.io/badge/GitHub-yKdu7z-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
