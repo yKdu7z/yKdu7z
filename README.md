@@ -1,8 +1,10 @@
 <div align="center">
 
-# Carlos Eduardo Michelle Marques
+# Carlos Eduardo Michelle Marques 🧑🏻‍💻
 
 **Desenvolvedor Web & Mobile**
+
+
 
 Estudante de Engenharia de Software · Desenvolvedor na GEWEB ERP · Criador do TramaBox
 
@@ -78,8 +80,8 @@ Trabalho na **GEWEB ERP** desenvolvendo layouts de templates, integrações e pe
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yKdu7z&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true" alt="Estatisticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yKdu7z&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&langs_count=6" alt="Linguagens mais usadas" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yKdu7z&theme=tokyonight" alt="Estatisticas do GitHub" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yKdu7z&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
 ---
