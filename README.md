@@ -1,16 +1,32 @@
 <div align="center">
 
-# Carlos Eduardo Michelle Marques 🧑🏻‍💻
+# Carlos Eduardo (Cadu) Michelle Marques 🧑🏻‍💻
 
 **Desenvolvedor Web & Mobile**
 
-
-
 Estudante de Engenharia de Software · Desenvolvedor na GEWEB ERP · Criador do TramaBox
 
-<a href="https://github.com/yKdu7z">
-  <img src="https://komarev.com/ghpvc/?username=yKdu7z&style=for-the-badge&color=FFD700&label=Visitas+ao+perfil&labelColor=1a1a2e" alt="Profile views" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/carlos-eduardo-michelle-marques-5801a8302" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/yKdu7z" title="GitHub">
+    <img src="https://img.shields.io/badge/-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:kdudev12@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/cadumichell_" title="Instagram">
+    <img src="https://img.shields.io/badge/-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://www.google.com/maps/search/?api=1&query=Ribeirao+Preto+SP" title="Ribeirao Preto, SP">
+    <img src="https://img.shields.io/badge/Ribeir%C3%A3o_Preto--SP-00A884?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ribeirao Preto, SP" />
+  </a>
+</p>
 
 </div>
 
@@ -56,6 +72,11 @@ Trabalho na **GEWEB ERP** desenvolvendo layouts de templates, integrações e pe
         App de avaliação de filmes e séries inspirado no Letterboxd, com versão <strong>web</strong> (PHP + MySQL) e <strong>mobile</strong> (React Native + Expo). Backend próprio em PHP com autenticação, avaliações, listas e integração com Firebase.
       </p>
       <p>
+        <a href="https://tramabox.com">
+          <img src="https://img.shields.io/badge/Site-tramabox.com-FFD700?style=flat-square&logo=google-chrome&logoColor=000" alt="Site do TramaBox" />
+        </a>
+      </p>
+      <p>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -84,14 +105,14 @@ Trabalho na **GEWEB ERP** desenvolvendo layouts de templates, integrações e pe
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yKdu7z&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
----
-
 <div align="center">
 
 **Construindo soluções com código, estudo e prática todos os dias.**
 
+
+
 <a href="https://github.com/yKdu7z">
-  <img src="https://img.shields.io/badge/GitHub-yKdu7z-181717?style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=yKdu7z&style=for-the-badge&color=FFD700&label=Visitas+ao+perfil&labelColor=1a1a2e" alt="Profile views" />
 </a>
 
 </div>
